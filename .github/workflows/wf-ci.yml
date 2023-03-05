@@ -1,0 +1,12 @@
+---
+name: CI Workflow
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+
+jobs:
+  call-lint-workflow:
+    uses: ./.github/workflows/lint.yml
