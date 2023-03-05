@@ -6,7 +6,7 @@ Private food blog
 
 - [Bananenbrot](recipes/bananenbrot.md) ohne Zucker
 
-## Foodblogs etc.
+## Foodblogs
 
 - [https://www.chefkoch.de/]
 - [https://www.eat-this.org/]
