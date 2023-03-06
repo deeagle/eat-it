@@ -1,11 +1,11 @@
 # Bananenbrot
 
+![work](https://img.shields.io/badge/work-15%20Min-green)
+![bake](https://img.shields.io/badge/bake-45%20Min-blue)
+![difficulty](https://img.shields.io/badge/difficulty-simpel-green)
+
 Bananabread - superlecker, vollwertig, gesund und herrlich unkompliziert, auch für Kleinkinder
 oder als Pausensnack sehr gut geeignet.
-
-- 15 Min Arbeitszeit
-- 45 Min Backzeit
-- simpel
 
 ## Zutaten
 
