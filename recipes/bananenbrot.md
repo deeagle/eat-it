@@ -26,8 +26,8 @@ oder als Pausensnack sehr gut geeignet.
 1. Den Apfel schälen, entkernen und fein reiben (alternativ kann man auch Apfelmus nehmen, dem kein Zucker zugesetzt
    wurde). Die Bananen schälen, zum Apfel geben und gut zerdrücken. Nun mit den zwei Eiern schaumig schlagen.
 2. Mehl, Backpulver und Zimt mischen, zum Bananen-Apfel-Ei-Brei geben und kurz, aber gut verrühren. Zum Schluss die
-   gehackten Walnüsse, gemahlenen Leinsamen und die Kakaonibs unterheben und alles in eine gefettete Kastenform füllen. Je größer die Form,
-   desto flacher das Brot.
+   gehackten Walnüsse, gemahlenen Leinsamen und die Kakaonibs unterheben und alles in eine gefettete Kastenform füllen.
+   Je größer die Form, desto flacher das Brot.
 3. Nun im heißen Backofen bei 180 °C Ober-/Unterhitze etwa 45 Minuten backen. Stäbchenprobe machen.
 
 ## Notes
